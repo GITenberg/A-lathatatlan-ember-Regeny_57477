@@ -1,0 +1,45 @@
+_repo: A-lathatatlan-ember-Regeny_57477
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mühlbeck, Károly
+    gutenberg_agent_id: '49408'
+    url: http://www.gutenberg.org/2009/agents/49408
+creator:
+  author:
+    agent_name: Gárdonyi, Géza
+    aliases:
+    - Gardonyi, Geza
+    - Zigler, Géza
+    - Гардони, Геза
+    - Gardoni, Geza
+    - Gardoni, Gezah
+    birthdate: 1863
+    deathdate: 1922
+    gutenberg_agent_id: '41300'
+    url: http://www.gutenberg.org/2009/agents/41300
+  editor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2018-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57477'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A láthatatlan ember
+
+  Regény'
+url: http://www.gutenberg.org/ebooks/57477
